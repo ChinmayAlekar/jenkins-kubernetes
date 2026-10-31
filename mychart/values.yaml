@@ -1,0 +1,7 @@
+replicaCount: 1
+
+
+image: 
+  repository: chinmay051203/app6
+  pullPolicy: Always
+  tag: latest
